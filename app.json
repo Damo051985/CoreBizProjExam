@@ -1,0 +1,26 @@
+{
+  "id": "710d1161-f7d9-4524-ab44-f0fa83600ef1",
+  "name": "ProjectCoreBiz",
+  "publisher": "Default publisher",
+  "version": "1.0.0.4",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ProjectCoreBiz.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
