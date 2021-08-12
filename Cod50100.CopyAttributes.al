@@ -25,6 +25,4 @@ codeunit 50100 CopyAttributes
         END;
         SalesInvLine."Attributes" := TextAttributes;
     end;
-}
-///Dan
-/// aksjakjsakjskasjajsakjskajsajsk
+}	//
