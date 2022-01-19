@@ -1,0 +1,9 @@
+{
+    "requests": [{
+            "method": "GET",
+            "id": "request1",
+            "url": "companies(42fd8c14-3a36-ec11-88a7-00155d322201)/items?$filter=llmsCode eq 'SD014-99999999-LEO'&$expand=barcodes"
+           
+        }
+    ]
+}
